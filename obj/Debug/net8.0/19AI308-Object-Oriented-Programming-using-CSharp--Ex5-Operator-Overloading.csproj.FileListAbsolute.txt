@@ -1,0 +1,15 @@
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.exe
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.deps.json
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.runtimeconfig.json
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.dll
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\bin\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.pdb
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.AssemblyInfoInputs.cache
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.AssemblyInfo.cs
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.csproj.CoreCompileInputs.cache
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.sourcelink.json
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.dll
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\obj\Debug\net8.0\refint\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.dll
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.pdb
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\obj\Debug\net8.0\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.genruntimeconfig.cache
+C:\c#\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading\obj\Debug\net8.0\ref\19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading.dll
